@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\RimworldReflect\obj\Debug\RimworldReflect.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\RimworldReflect\obj\Debug\RimworldReflect.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\RimworldReflect\bin\Debug\RimworldReflect.exe
+C:\Users\marti\source\repos\RimworldReflect\bin\Debug\RimworldReflect.pdb
+C:\Users\marti\source\repos\RimworldReflect\obj\Debug\RimworldReflect.exe
+C:\Users\marti\source\repos\RimworldReflect\obj\Debug\RimworldReflect.pdb
